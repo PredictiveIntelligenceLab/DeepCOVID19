@@ -1,6 +1,8 @@
 SEIR-mobility Code and Data Processing Guide
 @author: mohamedazizbhouri
 
+Rk: The easiest way to download the codes and data is to use the following Google Drive link to get a zip file of the whole repository: https://drive.google.com/file/d/1c3SsMf5hYpyKEDC7bbPmueI_5Ax0o03l/view?usp=sharing
+
 Step 1: Download Google mobility data as "Global_Mobility_Report.csv" file from https://www.google.com/covid19/mobility/ (version of July 23rd considered in this project). Such a file can be found in the folder "raw".
 
 Step 2: For Google mobility data, remove the counties containing missing mobility data for more than 3 consecutive days or 20 days in total over the considered time period. 
