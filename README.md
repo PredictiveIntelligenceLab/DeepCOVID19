@@ -1,6 +1,6 @@
-## Prognosis of COVID-19 spread in over 200 US counties: A deep learning study on the effect of human mobility and social behavior
+## COVID-19 dynamics across the US: A deep learning study of human mobility and social behavior
 
-Code and data accompanying the manuscript titled "OVID-19 dynamics across the US: A deep learning study of human mobility and social behavior.", authored by Mohamed Aziz Bhouri, Francisco Sahli Costabal, Hanwen Wang, Kevin Linka, Mathias Peirlinck, Ellen Kuhl and Paris Perdikaris.
+Code and data accompanying the manuscript titled "COVID-19 dynamics across the US: A deep learning study of human mobility and social behavior.", authored by Mohamed Aziz Bhouri, Francisco Sahli Costabal, Hanwen Wang, Kevin Linka, Mathias Peirlinck, Ellen Kuhl and Paris Perdikaris.
 
 ## Abstract
 
